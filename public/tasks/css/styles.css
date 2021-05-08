@@ -1,0 +1,14 @@
+.center{
+    text-align: center !important;
+}
+.margin-top-50{
+    margin-top: 10%;
+}
+
+.left{
+    float: left !important;
+}
+
+.right{
+    float: right !important;
+}
