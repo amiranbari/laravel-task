@@ -9,7 +9,7 @@ This project provided by Amir anbari.
 
 This project created with laravel, javascript, bootstrap.
 
-Enjoy it..
+Enjoy it.
 
 ## Install
 
