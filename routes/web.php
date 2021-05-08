@@ -18,6 +18,5 @@ Route::get('/', function () {
     return view('welcome');
 });
 
-Route::middleware('web')->group(function (){
-    Route::resource('task', TaskController::class);
-});
+
+Route::resource('task', TaskController::class)->except(['create', 'show', 'edit']);
